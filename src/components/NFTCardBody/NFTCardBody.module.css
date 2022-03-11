@@ -1,0 +1,40 @@
+.NFTCard__body {
+  display: flex;
+  flex-flow: column;
+  row-gap: 1em;
+  height: calc(var(--hCard) - var(--hImg));
+  border-bottom: 0.5px solid rgba(255, 255, 255, 0.2);
+  padding: 0 0 10px 0;
+}
+
+.NFTCard__body h1 {
+  color: var(--white);
+  font-size: 1.35em;
+}
+
+.NFTCard__body p {
+  color: var(--soft-blue);
+  font-size: 1em;
+}
+
+.status {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.ethereum,
+.days {
+  display: flex;
+  flex-flow: row nowrap;
+  column-gap: 0.5em;
+}
+
+.ethereum span,
+.days span {
+  font-weight: 700;
+}
+
+.ethereum span {
+  color: var(--cyan);
+}

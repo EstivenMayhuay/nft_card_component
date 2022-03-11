@@ -1,7 +1,8 @@
-import "./App.css";
+// components
+import NFTCard from "./components/NFTCard/NFTCard";
 
 const App = () => {
-  return <h1>Hola</h1>;
+  return <NFTCard />;
 };
 
 export default App;

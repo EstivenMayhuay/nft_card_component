@@ -9,6 +9,8 @@ The designs were created to the following widths:
 
 ## Colors
 
+---
+
 ### Primary
 
 - Soft blue: hsl(215, 51%, 70%)

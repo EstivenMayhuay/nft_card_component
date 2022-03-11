@@ -1,0 +1,31 @@
+.NFTCard__footer {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  column-gap: 0.5em;
+}
+
+.NFTCard__footer span {
+  color: var(--white);
+  font-size: 0.9em;
+}
+
+.NFTCard__footer span strong {
+  color: var(--soft-blue);
+}
+
+.image {
+  display: block;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  border: 1px solid var(--white);
+  border-radius: 50%;
+}
+
+.image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

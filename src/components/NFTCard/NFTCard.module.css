@@ -1,0 +1,26 @@
+:root {
+  --wCard: 300px;
+  --hCard: 460px;
+  --hImg: 240px;
+
+  /* colors */
+  --soft-blue: hsl(215, 51%, 70%);
+  --cyan: hsl(178, 100%, 50%);
+  --very-dark-blue-main-bg: hsl(217, 54%, 11%);
+  --very-dark-blue-card-bg: hsl(216, 50%, 16%);
+  --very-dark-blue-line: hsl(215, 32%, 27%);
+  --white: hsl(0, 0%, 100%);
+}
+
+.NFTCard {
+  display: flex;
+  flex-flow: column;
+  row-gap: 1em;
+  width: var(--wCard);
+  height: var(--hCard);
+  margin: 0 auto;
+  padding: 1em;
+  background: var(--very-dark-blue-card-bg);
+  border-radius: 1em;
+  box-shadow: 15px 15px 30px -10px rgba(0, 0, 0, 0.5);
+}
