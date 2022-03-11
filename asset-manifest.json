@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ntf_card_component/static/css/main.073c9b0a.css",
+    "main.js": "/ntf_card_component/static/js/main.d8ae4732.js",
+    "static/js/787.32187e44.chunk.js": "/ntf_card_component/static/js/787.32187e44.chunk.js",
+    "index.html": "/ntf_card_component/index.html",
+    "main.073c9b0a.css.map": "/ntf_card_component/static/css/main.073c9b0a.css.map",
+    "main.d8ae4732.js.map": "/ntf_card_component/static/js/main.d8ae4732.js.map",
+    "787.32187e44.chunk.js.map": "/ntf_card_component/static/js/787.32187e44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d8ae4732.js"
+  ]
+}
