@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/nft_card_component/static/css/main.073c9b0a.css",
-    "main.js": "/nft_card_component/static/js/main.45c6e746.js",
+    "main.css": "/nft_card_component/static/css/main.faf349c8.css",
+    "main.js": "/nft_card_component/static/js/main.9be85eb4.js",
     "static/js/787.32187e44.chunk.js": "/nft_card_component/static/js/787.32187e44.chunk.js",
+    "static/media/image-avatar.png": "/nft_card_component/static/media/image-avatar.ee83dcc260691eaedaeb.png",
+    "static/media/image-equilibrium.jpg": "/nft_card_component/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
     "index.html": "/nft_card_component/index.html",
-    "main.073c9b0a.css.map": "/nft_card_component/static/css/main.073c9b0a.css.map",
-    "main.45c6e746.js.map": "/nft_card_component/static/js/main.45c6e746.js.map",
+    "static/media/icon-view.svg": "/nft_card_component/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/nft_card_component/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/nft_card_component/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.faf349c8.css.map": "/nft_card_component/static/css/main.faf349c8.css.map",
+    "main.9be85eb4.js.map": "/nft_card_component/static/js/main.9be85eb4.js.map",
     "787.32187e44.chunk.js.map": "/nft_card_component/static/js/787.32187e44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.45c6e746.js"
+    "static/css/main.faf349c8.css",
+    "static/js/main.9be85eb4.js"
   ]
 }
